@@ -1,5 +1,5 @@
-### Me chamo Matheus Diniz, seja bem-vindo ao meu perfil 👋
-##
+### Me chamo Matheus Diniz
+### Bem-vindo ao meu perfil
 
 <div align="center">
   <a href="https://github.com/DEV-MatheusDiniz">
