@@ -1,9 +1,8 @@
 ## Matheus Diniz
 
 - 🚀 Desenvolvedor Fullstack Junior
-
 - 💼 Atualmente trabalho na [Hepta Tecnologia](https://www.hepta.com.br/)
-
+- 🔗 Visite meu [LinkeDin](https://www.linkedin.com/in/matheus-diniz-941935187/)
 - 🎓 Sistemas da Informação
 
 ## Dashboard
