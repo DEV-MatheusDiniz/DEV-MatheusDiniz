@@ -1,8 +1,6 @@
 <div>
   <h1 align="left">Matheus Diniz
-    <p align="right">
-      <img src="https://komarev.com/ghpvc/?username=DEV-MatheusDiniz&color=blue" alt="Profile views" />
-    </p>
+    <img src="https://komarev.com/ghpvc/?username=DEV-MatheusDiniz&color=blue" alt="Profile views" />
   </h1>
 </div>
 
